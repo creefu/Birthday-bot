@@ -43,7 +43,7 @@ async def bd(ctx, dob):
 
 
 # token !!!token has been changed!!! not suppose to be public
-bot.run('Nzk3MjE2MzI4NDg1NTY4NTQy.X_jPkA.xJLiQqoUgTi3VZS0IO0Ir1RLhPM')
+bot.run('')
 
 # original script without using discord's python library
 def main(dob):
