@@ -1,4 +1,4 @@
-Birthday Bot
+Birthday Bot (Due to Discrod's API update. this bot is currently not functioning)
 -----------------------------------------------
 Instruction:
 use '!bd year/month/date' to use the bot
